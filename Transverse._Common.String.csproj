@@ -16,7 +16,7 @@
 	</PropertyGroup>
 
 	<ItemGroup>
-	  <PackageReference Include="Transverse._Common.Exceptions" Version="1.0.230606.1908-beta" />
+	  <PackageReference Include="Transverse._Common.Exceptions" Version="1.0.230608.1738-beta" />
 	</ItemGroup>
 	
 </Project>
